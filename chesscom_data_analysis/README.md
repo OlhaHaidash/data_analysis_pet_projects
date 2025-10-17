@@ -12,7 +12,7 @@ The analysis allows understanding:
 This research helps identify patterns in the behavior of successful players and combines behavioral analysis with game analysis, providing a foundation for predicting future performance and developing tools to analyze games.
 
 # Data
-No CSV files are included. Data is fetched directly from the Chess.com API (the method is described in the file [chesscom_stat_analysis.ipynb](chesscom_data_analysis/chesscom_stat_analysis.ipynb)). Running the scripts will create local CSV files for analysis.
+No CSV files are included. Data is fetched directly from the Chess.com API (the method is described in the file [chesscom_stat_analysis.ipynb](https://github.com/OlhaHaidash/data_analysis_pet_projects/blob/main/chesscom_data_analysis/chesscom_stat_analysis.ipynb). Running the scripts will create local CSV files for analysis.
 
 # Data Version and Update Info
 The data was last collected on October 13, 2025 using the Chess.com Public API.
